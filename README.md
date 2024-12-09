@@ -14,3 +14,7 @@ Postman: (Optional) For testing APIs.
 
 # API Documentation
 Access the Swagger UI for API documentation at: http://localhost:9909/swagger-ui.html
+
+#SECURITY_PURPOSE
+spring.security.user.name=Sadananda
+spring.security.user.password=Sadananda
